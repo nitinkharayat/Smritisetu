@@ -222,9 +222,3 @@ But there is no obvious large-scale GitHub source archive for:
 - movie scripts
 - documentary projects
 - cinematic production files
-
-If you want, I can also turn this into:
-- a CSV-style source list
-- a more exhaustive repo table with categories and notes
-- a version focused only on speeches and books
-- a version focused only on movie/documentary-related references
