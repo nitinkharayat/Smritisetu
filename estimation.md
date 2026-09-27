@@ -14,7 +14,7 @@
 | Software / AI | Python + Flutter + OpenCV + Ollama + ChromaDB | ₹0 |
 | **TOTAL** | | **₹6,000** |
 
-### Prototype Jury Statement
+### Prototype Statement
 
 > **SmritiSetu has an actual prototype cash cost of just ₹6,000 because the laptop and tablet are repurposed assets. The prototype demonstrates the same core architecture intended for the final kiosk.**
 
@@ -44,35 +44,11 @@
 
 ## Rounded Figure
 
-**≈ ₹54,000 per kiosk**
+**≈ ₹57,000 per kiosk**
 
 ---
 
-# Kiosk Architecture
 
-```text
-                    SMRITISETU
-                 ┌───────────────┐
-                 │   24" TOUCH   │
-                 │    DISPLAY    │
-                 └──────┬────────┘
-                        │
-                  45° ERGONOMIC
-                      ANGLE
-                        │
-          ┌─────────────┴─────────────┐
-          │  3D PRINTED BRAILLE KEYS  │
-          │     + TACTILE BUTTONS     │
-          ├───────────────────────────┤
-          │                           │
-          │     DOCUMENT TRAY         │
-          │                           │
-          │      USB WEBCAM           │
-          │       OCR CAMERA          │
-          │                           │
-          ├───────────────────────────┤
-          │ REFURBISHED MINI PC       │
-          │ LOCAL AI + RAG + CHROMA   │
           ├───────────────────────────┤
           │ UPS + COOLING + POWER     │
           └───────────────────────────┘
